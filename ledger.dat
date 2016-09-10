@@ -1,0 +1,12 @@
+; -*- ledger -*-
+
+2016/09/10 14:00:00 * Founder Block
+    Assets:Treasury               2000 GDASH
+    FX:GDASH:DashMNGuild          -2000 GDASH
+    XP:Issued                     -1 XP
+    XP:Earned:isysd               1 XP
+    GCTM:Issued                   -1 GCTM
+    GCTM:Earned:isysd             1 GCTM
+
+P 2016/09/10 14:00:01 GCTM 2000 GDASH
+
