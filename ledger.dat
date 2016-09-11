@@ -9,4 +9,35 @@
     GCTM:Earned:isysd             1 GCTM
 
 P 2016/09/10 14:00:01 GCTM 2000 GDASH
+P 2016/09/10 17:00:03 DASH $11.30
+P 2016/09/10 17:00:03 GCTM $22600
+
+16/09/10 12:00:03 * lamassu-machine founded
+    XP:Issued                     -0.325 XP
+    XP:Earned:isysd               0.1 XP
+    XP:Earned:cindy-zimmerman     0.1 XP
+    XP:Earned:ctm-alianz          0.1 XP
+    XP:Earned:d3brouille          0.025 XP
+    GCTM:Issued                   -0.125 GCTM
+    GCTM:Earned:ctm-alianz        0.1 GCTM
+    FX:GCTM:GitGuild              0.001 GCTM
+    FX:GCTM:TAPPGuild             0.004 GCTM
+    FX:GCTM:TradeGuild             0.01 GCTM
+    FX:GCTM:WalletGuild             0.01 GCTM
+
+16/09/10 12:00:03 * lamassu-server founded
+    XP:Issued                     -0.3 XP
+    XP:Earned:isysd               0.1 XP
+    XP:Earned:g-p-g               0.1 XP
+    XP:Earned:ctm-alianz          0.15 XP
+    GCTM:Issued                   -0.125 GCTM
+    GCTM:Earned:ctm-alianz        0.1 GCTM
+    FX:GCTM:GitGuild              0.001 GCTM
+    FX:GCTM:TAPPGuild             0.004 GCTM
+    FX:GCTM:TradeGuild             0.01 GCTM
+    FX:GCTM:WalletGuild             0.01 GCTM
+
+16/09/10 12:00:03 * ctm-machine founded
+    XP:Issued                     -0.01 XP
+    XP:Earned:isysd               0.01 XP
 
